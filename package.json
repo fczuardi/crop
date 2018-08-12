@@ -8,6 +8,7 @@
   "license": "AGPL-3.0",
   "private": false,
   "scripts": {
+    "build": "bsb -make-world",
     "start": "bsb -make-world -w",
     "test": "jest",
     "commit": "git-cz",
