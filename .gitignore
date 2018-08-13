@@ -7,4 +7,5 @@ yarn-error.log
 /lib/*
 !/lib/js/*
 .bsb.lock
+*.bs.js
 
