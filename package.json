@@ -7,6 +7,7 @@
   "author": "Fabricio C Zuardi <fabricio@fabricio.org>",
   "license": "AGPL-3.0",
   "private": false,
+  "keywords": ["reason", "bucklescript"],
   "scripts": {
     "build": "bsb -make-world",
     "start": "bsb -make-world -w",
