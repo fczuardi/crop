@@ -7,7 +7,10 @@
   "author": "Fabricio C Zuardi <fabricio@fabricio.org>",
   "license": "AGPL-3.0",
   "private": false,
-  "keywords": ["reason", "bucklescript"],
+  "keywords": [
+    "reason",
+    "bucklescript"
+  ],
   "scripts": {
     "build": "bsb -make-world",
     "start": "bsb -make-world -w",
@@ -21,7 +24,7 @@
   },
   "devDependencies": {
     "@glennsl/bs-jest": "^0.4.3",
-    "bs-platform": "^4.0.3",
+    "bs-platform": "^4.0.5",
     "commitizen": "^2.10.1",
     "cz-conventional-changelog": "^2.1.0",
     "jest": "^23.5.0",
